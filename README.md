@@ -19,10 +19,10 @@ A collection of data analytics projects demonstrating skills in data cleaning, a
 | Category | Skills | Proficiency |
 |----------|--------|-------------|
 | **Data Analysis** | Statistical Analysis, Trend Identification, Business Intelligence | ⭐⭐⭐⭐|
-| **Excel** | PivotTables, Advanced Formulas, Dashboard Creation, Data Modeling | ⭐⭐⭐⭐⭐|
-| **Power BI** |  | ⭐⭐⭐⭐⭐|
-| **Tabelu** |  | ⭐⭐⭐⭐⭐|
-| **SQL** |  | ⭐⭐⭐⭐⭐|
+| **Excel** | PivotTables, Advanced Formulas, Dashboard Creation, Data Modeling | ⭐⭐⭐⭐|
+| **Power BI** |  | ⭐⭐⭐⭐|
+| **Tabelu** |  | ⭐⭐⭐⭐|
+| **SQL** |  | ⭐⭐⭐⭐|
 
 
 
