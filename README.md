@@ -25,9 +25,6 @@ A collection of data analytics projects demonstrating skills in data cleaning, a
 | **SQL** |  | ⭐⭐⭐⭐|
 
 
-
-
-
 ## 🏗️ Repository Structure
 Data-Analytics-Portfolio/
 ├── projects/
@@ -35,9 +32,6 @@ Data-Analytics-Portfolio/
 │ ├── 
 │ ├── 
 │ └── README.md
-
-
-text
 
 ## 📞 Contact & Connect
 
