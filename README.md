@@ -35,9 +35,7 @@ Data-Analytics-Portfolio/
 │ ├── 
 │ ├── 
 │ └── README.md
-├── skills/
-│ └── 
-└── README.md
+
 
 text
 
