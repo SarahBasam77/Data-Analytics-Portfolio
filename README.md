@@ -1,6 +1,5 @@
 # Sarah's Data Analytics Portfolio
-A collection of data analytics projects demonstrating skills in data cleaning, analysis, and visualization.
-
+Showcasing end-to-end data analytics projects that transform raw data into actionable insights.
 
 ## 🔧 Technical Skills
 
