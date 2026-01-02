@@ -6,10 +6,11 @@ Showcasing end-to-end data analytics projects that transform raw data into actio
 | Category | Skills | Proficiency |
 |----------|--------|-------------|
 | **Data Analysis** | Statistical Analysis, Trend Identification, Business Intelligence | ⭐⭐⭐⭐|
-| **Excel** | PivotTables, Advanced Formulas, Dashboard Creation, Data Modeling | ⭐⭐⭐⭐|
+| **Excel** | PivotTables, Advanced Formulas, Dashboard Creation, Data Modeling |⭐⭐⭐⭐|
+| **SQL** | DML, DDL, Query, Schema, Relationships, Joining Tables, Extract Data, Functions|⭐⭐⭐⭐|
 | **Power BI** |  | working on it|
 | **Tabelu** |  | working on it|
-| **SQL** |  | working on it|
+
 
 
 ## 🏗️ Repository Structure
