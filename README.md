@@ -1,6 +1,7 @@
 # Sarah's Data Analytics Portfolio
 Showcasing end-to-end data analytics projects that transform raw data into actionable insights.
 
+
 ## 🔧 Technical Skills
 
 | Category | Skills | Proficiency |
@@ -13,10 +14,9 @@ Showcasing end-to-end data analytics projects that transform raw data into actio
 
 
 
-## 🏗️ Repository Structure
-Data-Analytics-Portfolio/
-├── projects/
-└── README.md
+## 📚 Projects
+### Soon...
+
 
 ## 📞 Contact & Connect
 
@@ -25,6 +25,14 @@ I'm actively developing my data analytics skills and seeking opportunities to gr
 - **Learning Journey:** https://github.com/SarahBasam77/Data-Analytics-Journey - Check here to see my daily progress and learning logs.
 - **Email:** [Sara77Bassam@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/sarahhassan77]
+
+
+
+
+## 🏗️ Repository Structure
+Data-Analytics-Portfolio/
+├── projects/
+└── README.md
 
 ---
 
