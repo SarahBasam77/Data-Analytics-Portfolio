@@ -9,13 +9,13 @@ Showcasing end-to-end data analytics projects that transform raw data into actio
 | **Data Analysis** | Statistical Analysis, Trend Identification, Business Intelligence | ⭐⭐⭐⭐|
 | **Excel** | PivotTables, Advanced Formulas, Dashboard Creation, Data Modeling |⭐⭐⭐⭐|
 | **SQL** | DML, DDL, Query, Schema, Relationships, Joining Tables, Extract Data, Functions|⭐⭐⭐⭐|
-| **Power BI** |  | working on it|
+| **Power BI** | Cleaning Data, DAX, Drill Down, Conditional Formatting, Creating Visuals|⭐⭐⭐⭐|
 | **Tabelu** |  | working on it|
 
 
 
 ## 📚 Projects
-### Soon...
+1. **Power BI:** The goal was to clean and create visuals that represnts the data collected from a survey 
 
 
 ## 📞 Contact & Connect
